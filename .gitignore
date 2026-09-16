@@ -1,0 +1,23 @@
+# Data files
+*.csv
+*.parquet
+*.tsv
+*.xlsx
+*.h5
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
